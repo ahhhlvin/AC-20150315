@@ -14,6 +14,7 @@ public class exitTicket {
         System.out.println(word.length());
 
         System.out.println(word.replace('c', 'n'));
+        // uses the STRING.replace method to replace 'OLD' CHAR with 'NEW' CHAR
 
 
     }
